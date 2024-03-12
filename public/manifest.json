@@ -1,0 +1,17 @@
+{
+    "name": "Sekawan's",
+    "short_name": "Sekawans",
+    "start_url": "./admin",
+    "background_color": "#6777ef",
+    "description": "Admin Sekawan's",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logos/ms-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
